@@ -1,6 +1,9 @@
 # Ascended
 
 Randomized art generator program for creating digital collages(NFTs).
+
+Conditions for generating a portrait is in Attribute_sheet(Excel).
+
 Official website: https://ascendednft.io/
 
 Examples created from the generator:
